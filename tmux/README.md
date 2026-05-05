@@ -18,3 +18,5 @@ Create symlink:
 ```bash
 ln -s ~/dotfiles/tmux/tmux.conf ~/.tmux.conf
 ```
+
+Install plugins with tmux opened: "Ctrl + b" then "Shift + I"
