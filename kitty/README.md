@@ -5,7 +5,7 @@ Kitty conf file should reside:
 Clone repo:
 
 ```bash
-git clone TODO
+cd ~ && git clone https://github.com/gregg127/dotfiles
 ```
 
 Create symlink:
